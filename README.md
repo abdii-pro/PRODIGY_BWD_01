@@ -32,8 +32,8 @@ pip install flask
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/flask-crud-api.git
-   cd flask-crud-api
+   git clone https://github.com/abdii-pro/PRODIGY_BWD_01
+   cd PRODIGY_BWD_01
    ```
 
 2. Run the Flask app:
